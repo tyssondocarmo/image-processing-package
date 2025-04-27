@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 setup(
     name="crImageProcessing",
     version="0.0.1",
-    author="tysson_cr",
+    author="tyssondocarmo",
     author_email="tyssoncr@gmail.com",
     description="Image Processing Package using scikit-image",
     long_description=page_description,
