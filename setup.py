@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="crImageProcessing",
-    version="0.0.1",
+    version="0.0.2",
     author="tyssondocarmo",
     author_email="tyssoncr@gmail.com",
     description="Image Processing Package using scikit-image",
